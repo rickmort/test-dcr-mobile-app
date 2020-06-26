@@ -1,11 +1,12 @@
 # Decred Wallet
 
 The purpose of this test is to find out if there are any balance discrepancies in wallets and watch-only wallets.
-Environment
-•	Decrediton-Linux
-•	Decrediton – Windows
-•	Android Decred Mobile Wallet
-•	iOS Decred Mobile Wallet
+
+### Environment
+-	Decrediton-Linux
+-	Decrediton – Windows
+-	Android Decred Mobile Wallet
+-	iOS Decred Mobile Wallet
 
 The test consists of creating two wallets with different balances and importing an only-watch wallet for each one. The balances at the end will have to be the same on apps wallet.
 Results:
