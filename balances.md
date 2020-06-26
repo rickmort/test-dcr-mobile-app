@@ -26,6 +26,7 @@ In other words, if you originally have 10 DCR in the wallet and import the same 
 
 ## Problems
 Android Wallet
+
 The Android wallet caused problems by following these steps.
 1. Generate a new wallet or restore.
 2. Wait for sync.
